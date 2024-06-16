@@ -947,14 +947,14 @@ section,
 }
 
 .about .tab-content h4 {
-  font-size: 18px;
+  font-size: 25px;
   margin: 0;
   font-weight: 700;
   color: var(--default-color);
 }
 
 .about .tab-content i {
-  font-size: 22px;
+  font-size: 24px;
   line-height: 0;
   margin-right: 8px;
   color: var(--accent-color);
